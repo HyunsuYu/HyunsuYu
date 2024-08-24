@@ -24,23 +24,6 @@
         {
             "Medium(Eng)":"https://medium.com/@lioie6478"
         }
-    ],
-    "Contact":[
-        {
-            "Email":"lioie6478@gmail.com"
-        },
-        {
-            "Phone":"+82-10-7526-8570"
-        },
-        {
-            "Resume":"https://galvanized-soda-726.notion.site/Resume-Hyunsu-Yu-d0b826f8e703412f99610d5fb7a03531?pvs=4"
-        },
-        {
-            "Linked in":"https://www.linkedin.com/in/hyunsu-yu-a93110317"
-        },
-        {
-            "Meetup":"https://www.meetup.com/members/419953476/"
-        }
     ]
 }
 ```
