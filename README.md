@@ -8,23 +8,18 @@
     "Name":"Hyunsu Yu",
     "Region":"Republic of Korea, Busan",
     "Major":"Computer Engineering",
+    "Resume":"https://galvanized-soda-726.notion.site/Resume-Hyunsu-Yu-d0b826f8e703412f99610d5fb7a03531?pvs=4"
     "Dev Area":[
         "Game Dev",
         "Render Pipeline",
         "NLP/LLM",
         "Interactive Storytelling Engine"
     ],
-    "Channel":[
-        {
-            "Personal Dev Page":"hyunsuyu.github.io"
-        },
-        {
-            "Naver Blog(kor)":"https://blog.naver.com/lioie6478"
-        },
-        {
-            "Medium(Eng)":"https://medium.com/@lioie6478"
-        }
-    ],
+    "Channel":{
+        "Personal Dev Page":"hyunsuyu.github.io",
+        "Naver Blog(kor)":"https://blog.naver.com/lioie6478",
+        "Medium(Eng)":"https://medium.com/@lioie6478",
+    },
     "Main Projects":{
         "NATAKER Game Dev Project":"https://hyunsuyu.github.io/Projects/NATAKER/Project_NATAKER.html",
         "EasyTechToolUI":"https://github.com/HyunsuYu/EasyTechToolUI",
