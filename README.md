@@ -19,14 +19,21 @@
         "Notion Resume":"https://galvanized-soda-726.notion.site/Resume-Hyunsu-Yu-d0b826f8e703412f99610d5fb7a03531?pvs=4"
     },
     "Channel":{
-        "Personal Dev Page":"hyunsuyu.github.io",
+        "Personal Dev Page":"https://hyunsuyu.github.io",
         "Naver Blog(kor)":"https://blog.naver.com/lioie6478",
         "Medium(Eng)":"https://medium.com/@lioie6478",
     },
-    "Main Projects":{
+    "Main Dev Experience & Project":{
         "NATAKER Game Dev Project":"https://hyunsuyu.github.io/Projects/NATAKER/Project_NATAKER.html",
         "EasyTechToolUI":"https://github.com/HyunsuYu/EasyTechToolUI",
-        "More Deeper C++ Programming Language":"https://drive.google.com/file/d/1WGR6eMgRF7hZwCOLbZAEhNJP8C9_EZDh/view?usp=sharing"
+        "DEEP WAVE":"https://galvanized-soda-726.notion.site/DEEP-WAVE-On-Dev-f8e22058a6de43b29c27b37896031027",
+        "No Titled":""
+    },
+    "Other Experience & Project":{
+        "xmath":"https://github.com/myyrakle/xmath",
+        "Compact Multiplay":"https://galvanized-soda-726.notion.site/Compact-Multiplay-Document-3c28a270e1fa4493ba29daa4d94d690b?pvs=4",
+        "An Extracurricular Management Application":"https://hyunsuyu.github.io/Projects/ExtracurricularManagement/ExtracurricularManagement.html",
+        "Body Tracking Using Webcam":"https://hyunsuyu.github.io/Projects/BodyTracking/Project_BodyTracking.html"
     }
 }
 ```
