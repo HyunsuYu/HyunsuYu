@@ -24,7 +24,12 @@
         {
             "Medium(Eng)":"https://medium.com/@lioie6478"
         }
-    ]
+    ],
+    "Main Projects":{
+        "NATAKER Game Dev Project":"https://hyunsuyu.github.io/Projects/NATAKER/Project_NATAKER.html",
+        "EasyTechToolUI":"https://github.com/HyunsuYu/EasyTechToolUI",
+        "More Deeper C++ Programming Language":"https://drive.google.com/file/d/1WGR6eMgRF7hZwCOLbZAEhNJP8C9_EZDh/view?usp=sharing"
+    }
 }
 ```
 
