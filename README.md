@@ -21,7 +21,7 @@
     "Channel":{
         "Personal Dev Page":"hyunsuyu.github.io",
         "Naver Blog(kor)":"blog.naver.com/lioie6478",
-        "Medium(Eng)":"medium.com/@lioie6478",
+        "Medium(Eng)":"medium.com/@lioie6478"
     },
     "Main Dev Experience & Project":{
         "NATAKER Game Dev Project":"hyunsuyu.github.io/Projects/NATAKER/Project_NATAKER.html",
